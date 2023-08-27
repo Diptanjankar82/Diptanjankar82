@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![Header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Diptanjan Kar</h1>
 <h4 align="center">🎓 I'm currently studying Computer Science and Engineering at GIET UNIVERSITY, GUNUPUR <br> 💡 Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.<br> 🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms. <br> ✉️ You can shoot me an email at diptanjankar022@gmail.com! I'll try to respond as soon as I can.</h3>
 
