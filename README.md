@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Study-Notion**
 
-- 🌱 I’m currently learning **Dart , Flutter**
+- 🌱 I’m currently learning **Spring , React**
 
 - 📫 How to reach me **diptanjankar022@gmail.com**
 
