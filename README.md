@@ -1,13 +1,13 @@
 ![Header](github-header-image.png)
 <h1 align="center">Hi 👋, I'm Diptanjan Kar</h1>
-<h4 align="center">🎓 I'm currently studying Computer Science and Engineering at GIET UNIVERSITY, GUNUPUR <br> 💡 Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS. Currently exploring Dart/Flutter.<br> 🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms. <br> ✉️ You can shoot me an email at diptanjankar022@gmail.com! I'll try to respond as soon as I can.</h3>
+<h4 align="center">🎓 I'm currently studying Computer Science and Engineering at GIET UNIVERSITY, GUNUPUR <br> 💡 Some technologies I enjoy working with include Java, SpringfBoot, CoreJava, ReactJS, JavaScript . Currently exploring SpringBoot.<br> 🌱 I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms. <br> ✉️ You can shoot me an email at diptanjankar022@gmail.com! I'll try to respond as soon as I can.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diptanjankar82&label=Profile%20views&color=0e75b6&style=flat" alt="diptanjankar82" /> </p>
 
-- 🔭 I’m currently working on **Study-Notion**
+- 🔭 I’m currently working on **Make My Trip **
 
-- 🌱 I’m currently learning **Spring , React**
+- 🌱 I’m currently learning **SpringBoot , React**
 
 - 📫 How to reach me **diptanjankar022@gmail.com**
 
